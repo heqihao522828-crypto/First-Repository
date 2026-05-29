@@ -1,7 +1,7 @@
 # My First GitHub Repository
 
 ## About Me
-- Name: (your name or nickname)
+- Name: Kyle Ho
 - Goal: Learn the basics of GitHub
 
 ## Learning Progress
