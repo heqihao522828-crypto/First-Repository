@@ -1,2 +1,11 @@
-# First-Repository
-Let's learn by doing
+# My First GitHub Repository
+
+## About Me
+- Name: (your name or nickname)
+- Goal: Learn the basics of GitHub
+
+## Learning Progress
+- [x] Created a GitHub account
+- [x] Created my first Repository
+- [ ] Made my first Commit
+- [ ] Learned how to use Branches
